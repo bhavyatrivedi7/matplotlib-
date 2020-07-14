@@ -1,1 +1,1 @@
-# matplotlib-Data Visualization with graphs
+# matplotlib Data Visualization with graphs
